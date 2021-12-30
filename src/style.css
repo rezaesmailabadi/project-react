@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    color: rgb(164, 38, 189);
+}
+
+
+.post-list{
+    background-color: crimson;
+    color: rgb(241, 241, 241);
+    display: flex;
+    justify-content: center;
+}
+
+.p1-post{
+    background-color: darkgoldenrod;
+    width: 50%;
+}
+
+
+.ok{
+    /* padding-left: 1rem; */
+    margin-left: .5rem;
+}
