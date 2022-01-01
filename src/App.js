@@ -57,7 +57,6 @@ import Main from "./Main";
 
 // ----------------------------پروژه ی دوم با سینتکس ساده تر -------------------------------
 
-import React,{useState} from 'react';
 
 // useState is hook 
 // هوک یک تابع ویژه است که به شما اجازه می‌دهد از امکانات ری‌اکت استفاده کنید
@@ -85,7 +84,7 @@ const FancApp =()=>{
         </div>
     )
 }
-export default FuncApp;
+export default FancApp;
 
 
 // به این طرز فراخوانی کردن میگن فانکشنال کامپوننت
